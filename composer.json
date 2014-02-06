@@ -1,0 +1,14 @@
+{
+    "name": "ciarand/make-php-nice",
+    "description": "A collection of functions that make PHP (arguably) nicer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ciaran Downey",
+            "email": "me@ciarand.me"
+        }
+    ],
+    "require": {
+
+    }
+}
